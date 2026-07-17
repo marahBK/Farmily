@@ -8,7 +8,7 @@ As children save money, manage their allowance, and achieve financial goals, the
 
 ## Live Demo
 
-> Deployment Link: [ADD YOUR DEPLOYMENT LINK HERE]
+> Deployment Link: https://farmily-grow-earn.replit.app/
 
 ---
 
