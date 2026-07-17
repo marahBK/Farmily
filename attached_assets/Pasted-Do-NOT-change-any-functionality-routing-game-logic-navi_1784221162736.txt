@@ -1,0 +1,207 @@
+Do NOT change any functionality, routing, game logic, navigation, rewards, goals, saving system, parent flow, child flow, or any existing features.
+
+Your task is ONLY to redesign the game's visual style.
+
+Farmily should feel like a premium mobile farming game created by a professional game studio.
+
+The style should be original but inspired by the cozy feeling of games like Hay Day, Township and FarmVille.
+
+======================================================
+CAMERA
+======================================================
+
+Move the camera closer to the farm.
+
+Reduce the amount of visible sky.
+
+Focus the player's attention on the farm itself.
+
+The house, fields and avatar should occupy most of the screen.
+
+======================================================
+GRASS
+======================================================
+
+Replace the flat green background.
+
+Create rich textured grass.
+
+Use multiple shades of green.
+
+Add tiny flowers.
+
+Add small rocks.
+
+Add bushes.
+
+Make the ground feel alive.
+
+======================================================
+HOUSE
+======================================================
+
+The farmhouse should become larger.
+
+Use warm wood textures.
+
+Orange roof.
+
+Cute windows.
+
+Flower pots.
+
+Small chimney.
+
+Wooden porch.
+
+It should immediately become the visual center of the farm.
+
+======================================================
+FIELDS
+======================================================
+
+Redesign the farming plots.
+
+Do NOT use plain rounded brown rectangles.
+
+Instead create realistic farming soil with:
+
+• rounded corners
+• darker soil texture
+• small borders
+• depth
+• subtle shadows
+
+The fields should feel satisfying to plant.
+
+======================================================
+TREES & DECORATION
+======================================================
+
+Add environmental decoration.
+
+Fruit trees.
+
+Flowers.
+
+Wooden fences.
+
+Bushes.
+
+Grass details.
+
+Curved dirt walking paths.
+
+Small wooden signs.
+
+Everything should feel warm and cozy.
+
+======================================================
+CHARACTER
+======================================================
+
+Increase the avatar size by approximately 50%.
+
+Improve proportions.
+
+Make the character expressive.
+
+Cute face.
+
+Walking animation.
+
+Idle animation.
+
+Blinking eyes.
+
+Breathing animation.
+
+The character should feel alive.
+
+======================================================
+TOP BAR
+======================================================
+
+Redesign the Level and Coins indicators.
+
+Premium rounded capsules.
+
+Golden highlights.
+
+Soft shadows.
+
+More polished icons.
+
+======================================================
+SHOP
+======================================================
+
+Make every category look like game cards.
+
+Large illustrations.
+
+Friendly icons.
+
+Premium buttons.
+
+======================================================
+BOTTOM NAVIGATION
+======================================================
+
+Use modern rounded navigation.
+
+Selected tab should glow.
+
+Smooth transition animations.
+
+======================================================
+ANIMATIONS
+======================================================
+
+Add subtle animations everywhere.
+
+Clouds moving.
+
+Leaves moving.
+
+Birds occasionally flying.
+
+Flowers slightly moving.
+
+Coins bouncing.
+
+Buttons scaling when pressed.
+
+======================================================
+LIGHTING
+======================================================
+
+Warm morning sunlight.
+
+Soft ambient shadows.
+
+Pleasant gradients.
+
+Everything should feel cheerful.
+
+======================================================
+COLORS
+======================================================
+
+Use vibrant but soft colors.
+
+Nothing should feel flat.
+
+Every object should have depth.
+
+======================================================
+IMPORTANT
+======================================================
+
+Do NOT redesign the gameplay.
+
+Do NOT remove existing functionality.
+
+Do NOT change any flows.
+
+Only dramatically improve the visual quality so Farmily feels like a polished premium mobile farming game while remaining completely original.

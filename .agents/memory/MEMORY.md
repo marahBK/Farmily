@@ -1,0 +1,5 @@
+- [Auth model](auth-model.md) — Parent/Child shapes, SHA-256 hashing, storage key farmily-state-v2, async signIn/addChild/loginAsDemo.
+- [DB integration](db-integration.md) — PostgreSQL via createServerFn; no vinxi/http (broken); parentId passed as param; child game state stays in localStorage.
+- [Cross-store channel pattern](cross-store-channels.md) — parent ↔ child comms via farmily-mailbox / farmily-approvals localStorage keys; no shared context.
+- [Harvest reward chest](reward-chest-flow.md) — harvest no longer gives coins directly; sets pendingRewardChest → FarmHome opens RewardChestOverlay → closeRewardChest applies the reward.
+- [XP / level formula](xp-level-formula.md) — level = Math.min(10, floor(xp/100)+1); XP only from goal/saving approval (not harvest coins); harvest gives coins or other chest rewards.

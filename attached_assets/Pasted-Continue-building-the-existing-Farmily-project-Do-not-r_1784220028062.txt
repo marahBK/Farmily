@@ -1,0 +1,281 @@
+Continue building the existing Farmily project.
+
+Do not redesign any existing screens.
+
+Keep the same colors, illustrations, typography, animations and UI style.
+
+Now implement the Allowance Event, which is the core gameplay experience.
+
+====================================================
+ALLOWANCE EVENT
+====================================================
+
+When the parent sends an allowance from the Parent Hub, the child should NOT receive it as a boring popup.
+
+Instead, while the child is playing normally inside the farm:
+
+• The mailbox starts shaking.
+
+• A notification bubble appears above it.
+
+• The guide says:
+
+"Good news!
+
+Your allowance has arrived!"
+
+The child taps the mailbox.
+
+----------------------------------------------------
+
+ENVELOPE ANIMATION
+
+Animate a large envelope opening.
+
+Display:
+
+💵
+
+"You received
+
+100 SAR"
+
+The amount should support any value sent by the parent.
+
+----------------------------------------------------
+
+DECISION SCREEN
+
+Immediately after opening the envelope, the guide asks:
+
+"What would you like to do with your allowance?"
+
+Display ONLY two beautiful cards.
+
+Card 1
+
+🎯
+
+Create a Financial Goal
+
+Description:
+
+Save your money for something you really want.
+
+----------------------------------------------------
+
+Card 2
+
+💰
+
+Save Part of It
+
+Description:
+
+Start building a healthy saving habit.
+
+The child can leave this screen and return later if they don't want to decide immediately.
+
+====================================================
+FINANCIAL GOALS
+====================================================
+
+If the child selects
+
+Create Financial Goal
+
+Open a beautiful Goal Creation screen.
+
+First display suggested goals as illustrated cards.
+
+Examples:
+
+🚲 Bicycle
+
+🎮 Gaming Console
+
+📚 Books
+
+🎁 Gift
+
+✈️ Trip
+
+➕
+
+Create My Own Goal
+
+If the child selects Custom Goal:
+
+Allow entering:
+
+Goal Name
+
+Target Amount
+
+Target Date
+
+Press
+
+Save Goal
+
+----------------------------------------------------
+
+GOAL PAGE
+
+Create a Goals page accessible from Bottom Navigation.
+
+Each goal card displays:
+
+Goal Illustration
+
+Goal Name
+
+Target Amount
+
+Current Progress
+
+Target Date
+
+Progress Bar
+
+Button:
+
+Goal Completed
+
+====================================================
+GOAL COMPLETED
+====================================================
+
+When the child presses
+
+Goal Completed
+
+Display:
+
+"Great job!
+
+Your parent will verify your achievement."
+
+Send a notification to the Parent Hub.
+
+The parent can:
+
+Approve
+
+Reject
+
+----------------------------------------------------
+
+If Approved
+
+Display a beautiful celebration animation.
+
+DO NOT give rewards immediately.
+
+Instead open a reward chest.
+
+====================================================
+SAVING SYSTEM
+====================================================
+
+If the child chooses
+
+Save Part of It
+
+Allow selecting the amount they want to save.
+
+Press:
+
+Start Saving
+
+The saving plan appears inside a new page called
+
+My Savings.
+
+Each saving plan displays:
+
+Amount
+
+Status
+
+Progress
+
+Button:
+
+Saved Successfully
+
+----------------------------------------------------
+
+When the child presses
+
+Saved Successfully
+
+Notify the parent.
+
+The parent approves or rejects.
+
+If approved:
+
+Open the reward chest.
+
+====================================================
+HARVEST REWARD
+====================================================
+
+Do NOT simply add Coins.
+
+Instead create a fun animation.
+
+A magical farming reward chest appears.
+
+The child taps the chest.
+
+The chest opens.
+
+Possible rewards:
+
+🪙 Coins
+
+⭐ XP
+
+🌻 Rare Seeds
+
+🐔 New Animal
+
+🎨 Decoration
+
+Each reward should feel exciting.
+
+====================================================
+LEVEL SYSTEM
+====================================================
+
+XP increases only when:
+
+• A financial goal is approved.
+
+• A saving plan is approved.
+
+Every new level unlocks additional content such as:
+
+New Crops
+
+Animals
+
+Buildings
+
+Decorations
+
+====================================================
+IMPORTANT
+====================================================
+
+The child should always feel like they are playing a farming game, not using a banking application.
+
+Financial education must happen naturally through gameplay.
+
+Keep the experience colorful, playful and rewarding.
+
+Do not implement real bank integration yet.
+
+Focus on an enjoyable MVP suitable for children.
