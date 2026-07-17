@@ -136,10 +136,10 @@ npm run dev
 
 ## Team Members
 
-- Batool Bamogbel
-- Lin Siwar
-- Maram Al-Khamis
 - Maha Bin Dakhil
+- Batool Bamogbel
+- Leen Sewar
+- Maram Al-Khamis
 - Marah Aqsimi
 
 ---
@@ -147,9 +147,3 @@ npm run dev
 ## License
 
 This project was developed as part of a hackathon/academic project and is intended for educational and demonstration purposes.
-
----
-
-## Contact
-
-For questions or collaboration opportunities, please contact the project team.
