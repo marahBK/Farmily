@@ -140,7 +140,7 @@ npm run dev
 - Batool Bamogbel
 - Leen Sewar
 - Maram Al-Khamis
-- Marah Aqsimi
+- Marah Basel
 
 ---
 
